@@ -1,0 +1,6 @@
+c:\users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\TomTilley_Advanced\ConsoleValidator\bin\Debug\ConsoleValidator.dll
+c:\users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\TomTilley_Advanced\ConsoleValidator\bin\Debug\ConsoleValidator.pdb
+c:\users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\TomTilley_Advanced\ConsoleValidator\obj\Debug\ConsoleValidator.csproj.CoreCompileInputs.cache
+c:\users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\TomTilley_Advanced\ConsoleValidator\obj\Debug\ConsoleValidator.dll
+c:\users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\TomTilley_Advanced\ConsoleValidator\obj\Debug\ConsoleValidator.pdb
+c:\users\tomt\Google Drive\Intec Opleiding .NET\C# GEVORDERD\OEFENINGEN\TomTilley_Advanced\ConsoleValidator\obj\Debug\ConsoleValidator.csprojResolveAssemblyReference.cache
